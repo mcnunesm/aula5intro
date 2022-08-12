@@ -10,13 +10,13 @@ Oi Airton e Douglas, cada um precisa criar 3 arquivos, vou listar abaixo os arqu
 
        # Os arquivos devem ter nomes diferentes
        # Depois de criados: adicionar conteúdo a eles
-       # Adicioná-los ao repositório local ---> (git add "nome do arquivo")
-       # Adicionar commit ---> (git commit -m "mensagem")
-       # Sincronizá-los com o repositório remoto ---> git push origin master/main
+       # Adicioná-los ao repositório local ---> git add "nome do arquivo"
+       # Adicionar commit ---> git commit -m "mensagem"
+       # Sincronizá-los com o repositório remoto ---> git push
 
 
     Após a finalização precisamos atualizar nosso repositório 
-    local e sincronizar para recebermos os 9 arquivos! ---> (git pull)
+    local e sincronizar para recebermos os 9 arquivos! ---> git pull
 
   
             Até aqui realizamos os passos 1 a 6
