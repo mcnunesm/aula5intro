@@ -1,10 +1,13 @@
 Prática integradora Git + GitHub
 
 Oi Airton e Douglas, cada um precisa criar 3 arquivos, vou listar abaixo os arquivos que criei:
+Oi hoje eu inclui mais 2 arquivos txt dentro da nossa pasta, acho que amanhã à tarde se todos estiverem de acordo podemos marcar para fazermos juntos.
 
     * index.html
     * texto1.txt
     * texto2.txt
+    * texto3.txt
+    * texto4.txt
 
     Instruções:
 
