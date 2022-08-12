@@ -1,0 +1,9 @@
+Arquivo para exercício de Introdução a Informática "Prática integradora Git + GitHub"
+
+Link do exercício: https://drive.google.com/uc?export=download&id=1abSDqFbA5fgOUmxq6zOQau-f3QZXS8aI
+
+Objetivos: 
+
+    * criar um repositório remoto no GitHub (https://github.com/mcnunesm/aula5intro.git)
+    * criar repositório local em um computador (git init)
+    * Trabalhar com arquivos locais, sincronizando as alterações no GitHub

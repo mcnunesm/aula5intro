@@ -1,0 +1,23 @@
+Prática integradora Git + GitHub
+
+Oi Airton e Douglas, cada um precisa criar 3 arquivos, vou listar abaixo os arquivos que criei:
+
+    * index.html
+    * texto1.txt
+    * texto2.txt
+
+    Instruções:
+
+       # Os arquivos devem ter nomes diferentes
+       # Depois de criados: adicionar conteúdo a eles
+       # Adicioná-los ao repositório local ---> (git add "nome do arquivo")
+       # Adicionar commit ---> (git commit -m "mensagem")
+       # Sincronizá-los com o repositório remoto ---> git push origin master/main
+
+
+    Após a finalização precisamos atualizar nosso repositório 
+    local e sincronizar para recebermos os 9 arquivos! ---> (git pull)
+
+  
+            Até aqui realizamos os passos 1 a 6
+            Sugiro combinarmos um horário para realizar o passo 7 e 8
